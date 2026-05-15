@@ -1,4 +1,4 @@
-# PocketPotter — with Back4App Auth
+# UpStart Mobile App — with Back4App Auth
 
 ## Setup & Run
 
